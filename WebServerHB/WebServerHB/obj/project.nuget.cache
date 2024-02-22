@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iqMRTWNLOWeH3g0f/5BEqlDuHd+FlfmPwGO8uDvj5PSdSdZN6cUXfZglo+KzM6NeZiazPK7Es/EJPaCQoQVoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asflp\\WebServerHB\\WebServerHB\\WebServerHB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asflp\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\asflp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\asflp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\asflp\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
